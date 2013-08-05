@@ -1,18 +1,25 @@
-*.gem
-*.rbc
-.bundle
-.config
-coverage
-InstalledFiles
-lib/bundler/man
-pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
-tmp
+# Mac OS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
 
-# YARD artifacts
-.yardoc
-_yardoc
-doc/
+# Windows Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux Files
+.*
+!.gitignore
+*~
+
+# Vagrant Files
+.vagrant
+
+# Projects
+*.dev
