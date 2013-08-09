@@ -21,5 +21,7 @@ $RECYCLE.BIN/
 # Vagrant Files
 .vagrant
 
-# Projects
-*.dev
+# Common files
+*.log
+*.tmp
+
