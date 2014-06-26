@@ -1,7 +1,7 @@
 Vagrant Boxes
 =============
 
-Boxes do Vagrant que utilizo como base para ambientes de desenvolvimento de aplicações.
+Vagrant boxes that I use as base to develop new projects.
 
 #### Ruby On Rails
 * RVM
